@@ -24,3 +24,5 @@ Firstly change path to vcvars64.bat in make.bat file (it may be differ on differ
 
 # Further development
 Pure C++ version (cleaner code and more optimized computations) is coming soon!
+
+UPD: new version is updating on "refactor" branch
